@@ -10,7 +10,7 @@
 |⚛️ React |🐬 MySQL Server de Oracle |☁️ Oracle Cloud Infrastructure (OCI) |🤖 Inteligencia Artificial Generativa |
 ---
 
-📚Siempre busco mejorar mis habilidades y compartir conocimientos con la comunidad.
+📚 Siempre busco mejorar mis habilidades y compartir conocimientos con la comunidad.
 
 ---
 
