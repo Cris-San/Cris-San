@@ -5,7 +5,7 @@
 ¡Hola! 👋 Soy un apasionado por la tecnología con gran entusiasmo y curiosidad por aprender. Me especializo en el desarrollo web y la administración de sistemas operativos, con un enfoque en tecnologías open source y bases de datos.
 
 <br><br>
-🚀 Actualmente, estoy profundizando en:
+🎯 Actualmente, estoy profundizando en:
 
 - ⚛️ React
 - 🐬 MySQL Server de Oracle
@@ -14,7 +14,7 @@
 
 📚Siempre busco mejorar mis habilidades y compartir conocimientos con la comunidad.
 
-<br><br>📌 Áreas de interés:<br>✅ Desarrollo web (Frontend & Backend)<br>✅ Bases de datos y gestión de información<br>✅ Open Source y sistemas basados en Linux<br>✅ Consumo de APIs y automatización<br>✅ Buenas prácticas en Git y GitHub<br>✅ Computación en la nube e IA<br><br>💡 Siempre abierto a nuevas oportunidades y colaboraciones. ¡Construyamos juntos el futuro! 🚀<br><br>
+📌 Áreas de interés:<br>✅ Desarrollo web (Frontend & Backend)<br>✅ Bases de datos y gestión de información<br>✅ Open Source y sistemas basados en Linux<br>✅ Consumo de APIs y automatización<br>✅ Buenas prácticas en Git y GitHub<br>✅ Computación en la nube e IA<br><br>💡 Siempre abierto a nuevas oportunidades y colaboraciones. ¡Construyamos juntos el futuro! 🚀<br><br>
 
 
 ## 🌐 Socials:
