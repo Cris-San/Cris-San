@@ -14,12 +14,12 @@
 📚Siempre busco mejorar mis habilidades y compartir conocimientos con la comunidad.
 
 📌 Áreas de interés:<br>
-💻 Desarrollo web (Frontend & Backend)
-✅ 🗄️ Bases de datos y gestión de información
-✅ 🐧 Open Source y sistemas basados en Linux
-✅ 🔗 Consumo de APIs y automatización
-✅ 🌱 Buenas prácticas en Git y GitHub
-✅ ☁️ Computación en la nube e 🤖 IA
+- 💻 Desarrollo web (Frontend & Backend)
+- 🗄️ Bases de datos y gestión de información
+- 🐧 Open Source y sistemas basados en Linux
+- 🔗 Consumo de APIs y automatización
+- 🌱 Buenas prácticas en Git y GitHub
+- ☁️ Computación en la nube e 🤖 IA
 <br><br>💡 Abierto a nuevas oportunidades y colaboraciones. ¡Construyamos juntos el futuro! 🚀<br><br>
 
 
