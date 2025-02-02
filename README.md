@@ -14,7 +14,7 @@
 
 ---
 
-📌 Áreas de interés:<br>
+## 📌 Áreas de interés:<br>
 - 💻 Desarrollo web (Frontend & Backend)
 - 🗄️ Bases de datos y gestión de información
 - 🐧 Open Source y sistemas basados en Linux
